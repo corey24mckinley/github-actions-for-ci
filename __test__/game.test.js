@@ -33,7 +33,7 @@ describe('Game', () => {
       }
     })
 Suggested change 
-    this.p2 = 'Bananas'
+    this.p2 = 'Nate'
         this.p2 = p2
     it('Starts the game with a random player', async () => {
       Math.random = () => 0.4
